@@ -1,0 +1,6 @@
+{:deps
+ {clojure/data.codec {:git/url "https://github.com/clojure/data.codec"
+                      :sha "25af528ebd33d1d2f6aa7fc792ef73722d1818dd"}
+  clojure/data.json {:git/url "https://github.com/clojure/data.json"
+                     :sha "c24f0fc5af1961e832ce5247d56f806e5d2eb9d8"}
+  buddy/buddy-core {:mvn/version "1.5.0"}}}
